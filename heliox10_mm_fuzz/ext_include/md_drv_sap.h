@@ -1,0 +1,12 @@
+#ifndef MD_DRV_SAP_H
+#define MD_DRV_SAP_H
+
+#include "sap_range.h"
+
+MODULE_SAP_BEGIN(SAP_ID_MD_DRV_CODE_BEGIN)
+	CMUX_SAP,
+	DRIVER_PS_SAP,
+	L4C_CMUX_SAP,
+MODULE_SAP_END(SAP_ID_MD_DRV_CODE_TAIL)
+
+#endif /* MD_DRV_SAP_H */
