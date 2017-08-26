@@ -1,3 +1,3 @@
 # MTK Baseband Code Elevation Research Repo
 
-TODO link it to the blog entry
+Read more about the research in the [blog post](https://comsecuris.com/blog/posts/path_of_least_resistance/).

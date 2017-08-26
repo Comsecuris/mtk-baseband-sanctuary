@@ -135,27 +135,6 @@ void ccci_set_mem_access_protection(struct ccci_modem *md)
 	unsigned int kernel_base;
 	unsigned int dram_size;
 
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
 	switch(md->index) {
 	case MD_SYS1:
 		img_info = &md->img_info[IMG_MD];
